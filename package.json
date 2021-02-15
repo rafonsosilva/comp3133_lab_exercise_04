@@ -1,0 +1,22 @@
+{
+  "name": "lab_exercise_04_mongoose_validation",
+  "version": "1.0.0",
+  "description": "comp3133 lab 4 exercise",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "keywords": [
+    "mongoose",
+    "validation",
+    "express",
+    "nodejs",
+    "mongodb"
+  ],
+  "author": "Rafael Silva",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.16"
+  }
+}
